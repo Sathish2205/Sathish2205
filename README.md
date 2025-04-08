@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sathish2205
 - I'm a passionate Full Stack Developer who loves building web applications from scratch—frontend to backend. I enjoy solving real-world problems and constantly learning new technologies.
 - 👀 I’m interested in Building scalable web apps from scratch, Traveling and working remotely from coffee shops ☕✈️
-- 🌱 I’m currently learning Full Stack Web Developmrnt
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me
 📧 sathishsaravanan2205@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/sathish-saravanan-63b615316/)  

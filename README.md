@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sathish SAravanan and I'm a Full Stack Developer</p>
+<p align="left">My name is Sathish Saravanan and I'm a Full Stack Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m interested in Building scalable web apps from scratch, <br>- I'm a passionate Full Stack Developer who loves building web applications from scratch—frontend to backend. I enjoy solving real-world problems and constantly learning new technologies. <br>📚 I'm currently learning Full Stack Web Development <br>
+<p align="left">✨ I’m interested in Building scalable web apps from scratch, <br>- I'm a passionate Full Stack Developer who loves building web applications from scratch—      frontend to backend. I enjoy solving real-world problems and constantly learning new technologies. <br>📚 I'm currently learning Full Stack Web Development <br>
   - 📫 How to reach me <br>
 📧 sathishsaravanan2205@gmail.com  <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/sathish-saravanan-63b615316/)  <br>
@@ -30,15 +30,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/>
 </div>
 
 ###
